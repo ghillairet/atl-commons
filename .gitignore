@@ -1,2 +1,4 @@
-
+bin/
+*/target/
 /com.atl.common/bin
+/build/com.atl.common.repository/target
