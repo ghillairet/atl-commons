@@ -1,6 +1,6 @@
 bin/
 */target/
 /com.atl.common/bin
-/build/com.atl.common.repository/target
 com.atl.common/.settings/org.eclipse.jdt.core.prefs
 com.atl.common/.settings/org.eclipse.m2e.core.prefs
+.gitignore~
