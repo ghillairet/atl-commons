@@ -4,8 +4,8 @@
 		<artifactId>build</artifactId>
 		<groupId>com.atl.common</groupId>
 		<version>0.7.1-SNAPSHOT</version>
-		<relativePath>../build/com.atl.common.build/build/pom.xml</relativePath>
-	</parent>
+		<relativePath>../pom.xml</relativePath>
+    </parent>
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.atl.common</groupId>
 	<artifactId>com.atl.common.feature</artifactId>

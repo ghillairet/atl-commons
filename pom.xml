@@ -8,14 +8,14 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>../../../com.atl.common</module>
-		<module>../../../com.atl.common.feature</module>
-		<module>../../com.atl.common.repository</module>
+		<module>com.atl.common</module>
+		<module>com.atl.common.feature</module>
+		<module>build/repository</module>
 	</modules>
 
 	<properties>
 		<tycho-version>0.12.0</tycho-version>
-		<targets>../../../com.atl.common.repository/target/</targets>
+		<targets>build/repository/target/</targets>
 	</properties>
 
 	<repositories>
