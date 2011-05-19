@@ -13,5 +13,5 @@ Effective writing of ATL model transformations' launchers in Java.
 	EMFModel out = transform(inject(resource("model.uml"), get(UMLPackage.eNS_URI)), uml2ecore);
 
 
-eclipse update site http://atl-commons.eclipselabs.org.codespot.com/hg/atl-commons/
+eclipse update site http://code.google.com/a/eclipselabs.org/p/atl-commons/
 
